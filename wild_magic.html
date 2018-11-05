@@ -1,0 +1,49 @@
+<h1 id="output"></h1>
+
+<br>
+<button onclick="new_effect()">MAGIC!</button>
+<br>
+<input id="file" type="file">
+<br>
+
+<script>
+
+document.getElementById('file').addEventListener('change', readFile, false);
+
+var effects = new Array(
+		"The nearest cow becomes a dragon",
+		"The nearest dragon becomes a cow",
+		"Caster grows antlers, sheds them in 24 hours",
+		"A confused bear appears within 60 feet for 1 minute",
+		"Each of the casters fingers become sparklers for 1 minute.",
+		"Caster becomes afraid of a color.",
+		"Target (or caster) is pushed forward 10 feet.",
+		"Regain 2d8 health",
+		"The nearest corpse is revived",
+		"Caster smells like lavender for 1d6 days",
+		"Caster loses eyebrows",
+		"Everyone the caster can see moves 10 feet closer to the caster",
+		"Everytime someone says the casters name, he sneezes",
+		"The caster loses all hair.");
+
+function readFile (evt) {
+	var files = evt.target.files;
+	var file = files[0];
+	var reader = new FileReader();
+	reader.onload = function(event) {
+		effects = event.target.result.split("\n");
+	}
+	reader.readAsText(file);
+}
+
+var rand = (Math.floor(Math.random()*effects.length));
+console.log("r0nk's wild & magical wild magic effect generator");
+document.getElementById("output").innerHTML = effects[rand];
+
+function new_effect()
+{
+	var rand = (Math.floor(Math.random()*effects.length)-1);
+	document.getElementById("output").innerHTML = effects[rand];
+}
+
+</script>
