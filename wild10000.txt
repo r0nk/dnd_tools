@@ -9,13 +9,13 @@
 0009 lle sparrow eggs tumble from caster' s mouth
 0010 lleo small, hamless holes appear in caster's body
 0011 lleo young children claim to be the caster's offspring
-0012 ld1000 flies swarm from caster's mouth whenever he tells a lie
-0013 ld4 people of same race/opposite sex fall in love with caster
-0014 ld6 birds flutter about caster's head every time he is hit
-0015 ld6 rounds of booing and hisses echo if caster speaks his name
-0016 ld6 rounds of dramatic music play when caster speaks his name
-0017 ld8-l bones teleport into caster; loses d12 HP per bone
-0018 ld8-l bones teleport out of caster; loses le HP per bone
+0012 1d1000 flies swarm from caster's mouth whenever he tells a lie
+0013 1d4 people of same race/opposite sex fall in love with caster
+0014 1d6 birds flutter about caster's head every time he is hit
+0015 1d6 rounds of booing and hisses echo if caster speaks his name
+0016 1d6 rounds of dramatic music play when caster speaks his name
+0017 1d8-l bones teleport into caster; loses d12 HP per bone
+0018 1d8-l bones teleport out of caster; loses le HP per bone
 0019 3d10 gazelles appear in the caster's home
 0020 4d8 of caster's teeth turn to gold
 0021 hole penetrates caster's torso; caster remains unharmed
@@ -79,7 +79,7 @@
 0079 All creatures Viewed by caster look and sound identical
 0080 All creatures within 100 yards Alter Selfto appear as caster
 0081 All creatures within 100 yards Alter Selfto appear as caster
-0082 All creatures within 100 yards ignore the caster for ld4 rounds
+0082 All creatures within 100 yards ignore the caster for 1d4 rounds
 0083 All creatures within 90' of caster have a singalong for 1 turn
 0084 All enchantments/chamqs upon caster are dispelled
 0085 All enemies appear identical to caster for d4 rounds
@@ -143,7 +143,7 @@
 0143 All items carried by caster turn to water
 0144 All items owned by caster teleport to him from his home
 0145 All items owned by caster tum invisible
-0146 All magic weapons within 30' of caster vanish for ld20 turns
+0146 All magic weapons within 30' of caster vanish for 1d20 turns
 0147 All matter within 60' of caster becomes invisible for d4 rounds
 0148 All meat tastes blood-raw to the caster
 0149 All metal on or within caster turns to wood
@@ -172,7 +172,7 @@
 0172 All water between 1' and 100' of caster turns to air
 0173 All water carried by caster boils, increasing volume by 1600X
 0174 All weapons within 60' of caster become ethereal for d8 rounds
-0175 All weapons within 60' of caster tum invisible for ld4 turns
+0175 All weapons within 60' of caster tum invisible for 1d4 turns
 0176 All who see caster believe him to be a criminal
 0177 All who see caster believe him to be a harbinger of great ill
 0178 All who see caster believe him to be a Lich
@@ -520,7 +520,7 @@
 0520 Caster can chnge his eye color at will
 0521 Caster can choose to succeed any one roll in the next 24 hours
 0522 Caster can climb trees as nimbly as a cat or monkey
-0523 Caster can command demons ld6 times
+0523 Caster can command demons 1d6 times
 0524 Caster can communicate with inanimate obj ects once per week
 0525 Caster can Comprehend all spoken languages for le days
 0526 Caster can Comprehend all written languages for d8 days
@@ -575,7 +575,7 @@
 0575 Caster can read a new language but cannot speak it
 0576 Caster can read other people's thoughts by biting them
 0577 Caster can remove his ears and still hear through them
-0578 Caster can remove his head for up to ld6 rounds each day
+0578 Caster can remove his head for up to 1d6 rounds each day
 0579 Caster can remove his teeth, and they'll regrow nomally
 0580 Caster can Resurrect one being but must sacrifice his own life
 0581 Caster can resurrect the dead once per year
@@ -629,7 +629,7 @@
 0629 Caster cannot attack except on rounds when he wins Initiative
 0630 Caster cannot attack on rounds when he wins Initiative
 0631 Caster cannot be affected by priestly magic for 1 week
-0632 Caster cannot be attacked by any he does not see for ld4 days
+0632 Caster cannot be attacked by any he does not see for 1d4 days
 0633 Caster cannot be burned by nomal flame if his feet are wet
 0634 Caster cannot be frightened by any earthly creature
 0635 Caster cannot be hamed by a fall from any height
@@ -647,7 +647,7 @@
 0647 Caster cannot cast First Level spells until he gains a level
 0648 Caster cannot cast spells during the dark ofthe moon
 0649 Caster cannot cast spells except under direct sunlight
-0650 Caster cannot cast spells on himself for ld20 days
+0650 Caster cannot cast spells on himself for 1d20 days
 0651 Caster cannot cast spells on the first day ofthe week
 0652 Caster cannot cast spells unless barefoot
 0653 Caster cannot cast spells unless he carries a small flame
@@ -708,7 +708,7 @@
 0708 Caster cannot speak during one day of each week
 0709 Caster cannot speak except in direct sunlight
 0710 Caster cannot speak except under moonlight
-0711 Caster cannot speak for ld4 rounds after casting a spell
+0711 Caster cannot speak for 1d4 rounds after casting a spell
 0712 Caster cannot speak nomally but must shout or whisper
 0713 Caster cannot speak unless spoken to
 0714 Caster cannot speak until he has ridden a horse
@@ -720,7 +720,7 @@
 0720 Caster cannot speak until sunrise tomorrow
 0721 Caster cannot speak when at less than full hit points
 0722 Caster cannot speak when underground
-0723 Caster cannot stand upright for ld4 hours
+0723 Caster cannot stand upright for 1d4 hours
 0724 Caster cannot study spells if he still has any memorized
 0725 Caster cannot teleport or be teleported
 0726 Caster cannot tell a deliberate lie
@@ -803,28 +803,28 @@
 0803 Caster dies nightly and is resurrected each following morning
 0804 Caster discovers a tombstone nearby inscribed with his name
 0805 Caster discovers the secret for manufacturing plastic
-0806 Caster disgorges ld1000 bats
-0807 Caster disgorges ld1000 blasphemies
-0808 Caster disgorges ld1000 canaries
-0809 Caster disgorges ld1000 copper pieces
-0810 Caster disgorges ld1000 counterfeit gold coins
-0811 Caster disgorges ld1000 cubic yards of smoke
-0812 Caster disgorges ld1000 feathers
-0813 Caster disgorges ld1000 frogs
-0814 Caster disgorges ld1000 hailstones
-0815 Caster disgorges ld1000 hot embers
-0816 Caster disgorges ld1000 locusts
-0817 Caster disgorges ld1000 maggots
-0818 Caster disgorges ld1000 minnows
-0819 Caster disgorges ld1000 needles
-0820 Caster disgorges ld1000 non-poisonous snakes
-0821 Caster disgorges ld1000 pints ofwater
-0822 Caster disgorges ld1000 rotten apples
-0823 Caster disgorges ld1000 small pebbles every morning
-0824 Caster disgorges ld1000 spiders
-0825 Caster disgorges ld1000 sugar cubes
-0826 Caster disgorges ld1000 sunflower seeds
-0827 Caster disgorges ld1000 teeth
+0806 Caster disgorges 1d1000 bats
+0807 Caster disgorges 1d1000 blasphemies
+0808 Caster disgorges 1d1000 canaries
+0809 Caster disgorges 1d1000 copper pieces
+0810 Caster disgorges 1d1000 counterfeit gold coins
+0811 Caster disgorges 1d1000 cubic yards of smoke
+0812 Caster disgorges 1d1000 feathers
+0813 Caster disgorges 1d1000 frogs
+0814 Caster disgorges 1d1000 hailstones
+0815 Caster disgorges 1d1000 hot embers
+0816 Caster disgorges 1d1000 locusts
+0817 Caster disgorges 1d1000 maggots
+0818 Caster disgorges 1d1000 minnows
+0819 Caster disgorges 1d1000 needles
+0820 Caster disgorges 1d1000 non-poisonous snakes
+0821 Caster disgorges 1d1000 pints ofwater
+0822 Caster disgorges 1d1000 rotten apples
+0823 Caster disgorges 1d1000 small pebbles every morning
+0824 Caster disgorges 1d1000 spiders
+0825 Caster disgorges 1d1000 sugar cubes
+0826 Caster disgorges 1d1000 sunflower seeds
+0827 Caster disgorges 1d1000 teeth
 0828 Caster disgorges a black pudding
 0829 Caster disgorges a complete human skeleton
 0830 Caster disgorges a large python
@@ -1028,7 +1028,7 @@
 1028 Caster has a nose like a tapir
 1029 Caster has a nose like a thumb
 1030 Caster has a porcupine in his pocket
-1031 Caster has a remarkably quick temper for ld4 days
+1031 Caster has a remarkably quick temper for 1d4 days
 1032 Caster has a scar he attributes to a close call with a dragon
 1033 Caster has a seizure every time he tries to cast this spell
 1034 Caster has a terrible fear that he'sjust fooling everybody
@@ -1110,7 +1110,7 @@
 1110 Caster is as buoyant as styrofoam
 1111 Caster is at the center ofa Blade Barrier
 1112 Caster is at the center ofa whirlwind of ping-pong balls
-1113 Caster is attended by ld4 skeletons with no combat ability
+1113 Caster is attended by 1d4 skeletons with no combat ability
 1114 Caster is aware of every object now within 50 feet of him
 1115 Caster is base AC 4 for d4 days; DEX/armor bonuses still apply
 1116 Caster is befriended by a family in each town within 100 miles
@@ -1170,7 +1170,7 @@
 1170 Caster is covered in scars as if he were once badly burned
 1171 Caster is covered with butter every time he casts a spell
 1172 Caster is covered with painful-looking bruises
-1173 Caster is covered with scales which fall off in ld4 days
+1173 Caster is covered with scales which fall off in 1d4 days
 1174 Caster is deafened but gains Clairaudience ofthe area he is in
 1175 Caster is deeply embarrassed by the sound of his voice
 1176 Caster is deeply embarrassed whenever he casts a spell
@@ -1187,7 +1187,7 @@
 1187 Caster is Feebleminded when exposed to direct sunlight
 1188 Caster is filled with straw, not blood or internal organs
 1189 Caster is forever unable to teleport
-1190 Caster is granted one wish during each ofthe next ld4 years
+1190 Caster is granted one wish during each ofthe next 1d4 years
 1191 Caster is hallucinates wildly for ldl2 hours
 1192 Caster is haunted by ghastly Visions of his own death
 1193 Caster is Healed (not resurrected) under next 2d6 Full Moons
@@ -1204,7 +1204,7 @@
 1204 Caster is holding a tray full of hors d'oeuvres
 1205 Caster is holding an enomous basket ofturnips
 1206 Caster is holding an ice cream sandwich in each hand
-1207 Caster is immortal for the next ld8 days
+1207 Caster is immortal for the next 1d8 days
 1208 Caster is immortal, but has a fatal weakness (ie., cannot move)
 1209 Caster is immune to all magical healing efforts for d4 days
 1210 Caster is immune to all nonmagical snake venom
@@ -1218,8 +1218,8 @@
 1218 Caster is immune to next 10 olfactory (gas) attacks against him
 1219 Caster is immune to nonmagical disease for one year
 1220 Caster is immune to normal fire while chanting "icy-nicey"
-1221 Caster is immune to piercing attacks for ld4 days
-1222 Caster is immune to slashing attacks for ld4 days
+1221 Caster is immune to piercing attacks for 1d4 days
+1222 Caster is immune to slashing attacks for 1d4 days
 1223 Caster is immune to sonic attacks
 1224 Caster is implicated in a local property dispute
 1225 Caster is implicated in a tawdry scandal in a nearby town
@@ -1237,7 +1237,7 @@
 1237 Caster is invisible whenever he shoves his fist in his mouth
 1238 Caster is invisible while he speaks
 1239 Caster is invisible, intangible, and silenced for 10d6 rounds
-1240 Caster is invulnerable to all harm for ld6-l rounds
+1240 Caster is invulnerable to all harm for 1d6-l rounds
 1241 Caster is invulnerable until he hams someone
 1242 Caster isjust out of sight and earshot of his allies
 1243 Caster is killed and butchered like a deer
@@ -1262,7 +1262,7 @@
 1262 Caster is only able to see in 2 dimensions; -4 Tohit
 1263 Caster is only able to see when his eyes are closed
 1264 Caster is painfully and messily disemboweled
-1265 Caster is paralyzed by intense pain for ld4 rounds
+1265 Caster is paralyzed by intense pain for 1d4 rounds
 1266 Caster is perceived to be a bully
 1267 Caster is polymorphed into duplicate ofthe target
 1268 Caster is pretty sure he can breathe underwater
@@ -1296,7 +1296,7 @@
 1296 Caster is Stoneskinned
 1297 Caster is stricken mute in the presence of royalty
 1298 Caster is stunned by the true expanse of the universe
-1299 Caster is stunned for ld4 rounds each time he casts a spell
+1299 Caster is stunned for 1d4 rounds each time he casts a spell
 1300 Caster is stunned for le rounds
 1301 Caster is Stunned whenever he casts a spell
 1302 Caster is suddenly carrying a sophisticated laptop computer
@@ -1382,7 +1382,7 @@
 1382 Caster is unaffected by the next Evocation cast against him
 1383 Caster is unaffected by the next Illusion cast against him
 1384 Caster is unaffected by the next Necromancy cast against him
-1385 Caster is unhamed by next ld20 hit points of damage he suffers
+1385 Caster is unhamed by next 1d20 hit points of damage he suffers
 1386 Caster is Visible to infravision like a lighthouse beacon
 1387 Caster is vulnerable to rust monsters like metal
 1388 Caster is wearing an old deep-sea diving suit
@@ -1408,7 +1408,7 @@
 1408 Caster laughs like a madman in the presence of royalty
 1409 Caster laughs like a madman whenever he casts a spell
 1410 Caster leaps 90' straight up and lands without harm
-1411 Caster learns ld3 languages during the next 2 months
+1411 Caster learns 1d3 languages during the next 2 months
 1412 Caster learns a language which does not otherwise exist
 1413 Caster learns that a now--dead relative committed awful crimes
 1414 Caster learns that he was adopted
@@ -1435,9 +1435,9 @@
 1435 Caster looks sickly and emaciated but is not
 1436 Caster loses l HP/round until dying as on Negative Material
 1437 Caster loses l Level/Hit Die per day until becoming Juju zombie
-1438 Caster loses ld4 additional hit points from all fire damage
-1439 Caster loses ld4 fewer hit points from all fire damage
-1440 Caster loses ld6 hit points whenever he says a pun
+1438 Caster loses 1d4 additional hit points from all fire damage
+1439 Caster loses 1d4 fewer hit points from all fire damage
+1440 Caster loses 1d6 hit points whenever he says a pun
 1441 Caster loses 2d4 Experience Levels (and appropriate abilities)
 1442 Caster loses a piece of clothing each time he casts a spell
 1443 Caster loses a tooth during each ofthe next 4d8 nights
@@ -1481,7 +1481,7 @@
 1481 Caster must check CON every morning or fall asleep again
 1482 Caster must eat 2x the normal amount of food to be nourished
 1483 Caster must graze like a cow for food
-1484 Caster must roll a STR check: if successful, he gains ld4 STR
+1484 Caster must roll a STR check: if successful, he gains 1d4 STR
 1485 Caster must roll for System Shock for each wound or pass out
 1486 Caster must Save or spell strikes target
 1487 Caster must Save VS Death AND Spell or become a Lich
@@ -1560,7 +1560,7 @@
 1560 Caster refuses to admit that anything occurred before his birth
 1561 Caster refuses to drink healing potions
 1562 Caster refuses to eat meat which he did not kill himself
-1563 Caster refuses to talk for ld10+10 rounds after casting a spell
+1563 Caster refuses to talk for 1d10+10 rounds after casting a spell
 1564 Caster regains all spells he cast within last 24 hours
 1565 Caster regards any missed attack as a personal failure
 1566 Caster regenerates l HP/round for the next 20+d20 rounds
@@ -1667,14 +1667,14 @@
 1667 Caster sprouts one wing from his shoulder blade
 1668 Caster sprouts rabbit ears
 1669 Caster squeaks like a mouse when he is frightened
-1670 Caster stares vacantly into space for ld4 rounds
+1670 Caster stares vacantly into space for 1d4 rounds
 1671 Caster sticks his fingers in his ears and can't remove them
 1672 Caster stinks like a tomb when exposed to direct sunlight
 1673 Caster stinks of rotting fish in the presence of royalty
 1674 Caster strikes his thumb whenever he uses a hammer
 1675 Caster struck as by Magic Missile each time he hears his name
 1676 Caster stutters through time, existing only every other round
-1677 Caster sucks his thumb like an infant for ld4 turns
+1677 Caster sucks his thumb like an infant for 1d4 turns
 1678 Caster suddenly doesn't believe in magic
 1679 Caster suddenly finds himselfinside a 55-gallon steel drum
 1680 Caster suddenly finds himself standing within an igloo
@@ -1688,10 +1688,10 @@
 1688 Caster suffers insomnia; can't sleep next 5d4 days
 1689 Caster suffers no damage from one attack each round
 1690 Caster suffers nomal damage from illusions for next 24 hours
-1691 Caster suffers reverse of magical healing efforts for ld4 days
+1691 Caster suffers reverse of magical healing efforts for 1d4 days
 1692 Caster suffers reversed effect of the intended spell: no Save
 1693 Caster suffers withdrawal unless he eats mud each day
-1694 Caster Summons ld20 kobolds, who attack randomly
+1694 Caster Summons 1d20 kobolds, who attack randomly
 1695 Caster Summons Self(see spell listing)
 1696 Caster suspects some great entity is hiding nearby
 1697 Caster suspects that he's not who everyone says he is
@@ -1706,7 +1706,7 @@
 1706 Caster teleports 1 mile; stone replica appears in his place
 1707 Caster teleports 1 yard to the left whenever he casts a spell
 1708 Caster teleports randomly whenever he hears or speaks his name
-1709 Caster teleports to nearest dragon's horde for ld8 rounds
+1709 Caster teleports to nearest dragon's horde for 1d8 rounds
 1710 Caster teleports to the place he slept the previous night
 1711 Caster teleports to the place of his birth, returns in d4 days
 1712 Caster tells outrageous lies in the presence of royalty
@@ -2091,7 +2091,7 @@
 2091 Caster wakes each day covered by soft; newly-grown moss
 2092 Caster wakes each day desperate for a drink of water
 2093 Caster wakes each day entangled by overgrown grass
-2094 Caster wakes each day ethereal; takes ld4-1/2 hours to refom
+2094 Caster wakes each day ethereal; takes 1d4-1/2 hours to refom
 2095 Caster wakes each day in a pile of broken glass
 2096 Caster wakes each day lying north-to-south
 2097 Caster wakes each day naked, clothes hanging in a tall tree
@@ -2223,7 +2223,7 @@
 2223 Caster's hands vanish until tomorrow afternoon
 2224 Caster's head appears to be a few feet away while he sleeps
 2225 Caster's head appears to have been cut off and reattached
-2226 Caster's head flashes like a disco ball for ld4 turns
+2226 Caster's head flashes like a disco ball for 1d4 turns
 2227 Caster's head is a featureless ovoid while he sleeps
 2228 Caster's head rings like a church bell ldl2 times
 2229 Caster's head rotates 360? whenever he casts a spell
@@ -2265,7 +2265,7 @@
 2265 Caster's left arm is twice as long as his body
 2266 Caster's left hand grips his right wrist and won't let go
 2267 Caster's left wrist is chained to his right ankle
-2268 Caster's legs fuse into one for ld4 hours
+2268 Caster's legs fuse into one for 1d4 hours
 2269 Caster's limbs recede into his body while he sleeps
 2270 Caster's lips and cheeks turn invisible
 2271 Caster's lungs cease functioning in 2dl2 hours
@@ -2279,7 +2279,7 @@
 2279 Caster's name is actually the Dwarfish word for feces
 2280 Caster's neck bears a scar as though he was once hanged
 2281 Caster's neck shortens to 1/2 its length
-2282 Caster's next ld4 spells allow no Saving Throws
+2282 Caster's next 1d4 spells allow no Saving Throws
 2283 Caster's nomal body temperature is now ll2? Fahrenheit
 2284 Caster's nomal body temperature is now 74? Fahrenheit
 2285 Caster's nose and mouth switch places
@@ -2287,12 +2287,12 @@
 2287 Caster's nose becomes prehensile
 2288 Caster's nose dangles from his face on a loose spring
 2289 Caster's nose drips hot candle wax whenever he casts a spell
-2290 Caster's nose falls off and explodes in ld6 rounds
+2290 Caster's nose falls off and explodes in 1d6 rounds
 2291 Caster's nose falls off, leaving an ugly hole in its place
 2292 Caster's nose launches from his face like a rocket
 2293 Caster's nose migrates to another part of his body
 2294 Caster's nose rotates 90?
-2295 Caster's nose runs for ld4 rounds after casting a spell
+2295 Caster's nose runs for 1d4 rounds after casting a spell
 2296 Caster's nose runs profusely whenever he casts a spell
 2297 Caster's nose seems to hover six inches in front of his face
 2298 Caster's nose triples its size
@@ -2327,7 +2327,7 @@
 2327 Caster's skull is spongy and soft for lle rounds
 2328 Caster's smile puts people in mind ofa shark
 2329 Caster's spellbook is highly poisonous to anyone but him
-2330 Caster's spellbook is poisonous to him for ld4 days
+2330 Caster's spellbook is poisonous to him for 1d4 days
 2331 Caster's spells are accompanied by bright, flashing lights
 2332 Caster's staff turns into a saxophone
 2333 Caster's stomach rumbles when in the presence of royalty
@@ -2376,7 +2376,7 @@
 2376 Caster's age fluctuates id20 years each day
 2377 Caster's age halves for 48 hours
 2378 Caster's age is doubled
-2379 Caster's age is reduced by ld20 years
+2379 Caster's age is reduced by 1d20 years
 2380 Caster's age is reduced by one half
 2381 Caster's age quadruples for 6 hours
 2382 Caster's age triples for 18 hours
@@ -3859,7 +3859,7 @@
 3859 Some common smell makes the caster cast a spell at random
 3860 Some common smell makes the caster fly into a berserker rage
 3861 Some common smell makes the caster want to cast a spell
-3862 Some god/goddess of LOVe becomes infatuated with the caster
+3862 Some god/goddess of Love becomes infatuated with the caster
 3863 Some nearby cult thinks it must sacrifice the caster
 3864 Someonejust insulted the caster, but he's not sure who
 3865 Sounds of horrible moaning are heard when caster casts a spell
@@ -4688,7 +4688,7 @@
 4688 Some common smell makes the target fly into a berserker rage
 4689 Some common smell makes the target want to cast a spell
 4690 Some common smell makes the target weep uncontrollably
-4691 Some god/goddess of LOVe becomes infatuated with the target
+4691 Some god/goddess of Love becomes infatuated with the target
 4692 Some nearby cult thinks it must sacrifice the target
 4693 Someonejust insulted the target but he's not sure who
 4694 Speaking the target's name renders animals unconscious
@@ -4807,7 +4807,7 @@
 4807 Target appears to be standing three feet to his right
 4808 Target appears to be the worst enemy of anyone Viewing him
 4809 Target appears to blaze like a bonfire when he's hit by magic
-4810 Target appears to burst into flame but is Invisible (imprOVed)
+4810 Target appears to burst into flame but is Invisible (improved)
 4811 Target appears to decay rapidly in his sleep
 4812 Target appears to explode whenever he speaks his name
 4813 Target appears to lack all blood and soft tissue when naked
@@ -4984,7 +4984,7 @@
 4984 Target can extend his tongue 3d4 inches at will
 4985 Target can Feather Fall at will when naked
 4986 Target can Feign Death at will when naked
-4987 Target can fly at nomal MOVement Rate but can no longer walk
+4987 Target can fly at nomal Movement Rate but can no longer walk
 4988 Target can fly like an eagle when naked
 4989 Target can give offthe scent of pine or lemons at will
 4990 Target can glow like a firefly at will
@@ -5238,11 +5238,11 @@
 5238 Target develops a terrific thirst for pine tree sap
 5239 Target develops a terrific thirst for poison
 5240 Target develops a terrific thirst for sea water
-5241 Target develops a terrific thirst for SOVereign glue
+5241 Target develops a terrific thirst for Sovereign glue
 5242 Target develops a terrific thirst for stagnant water
 5243 Target develops a terrific thirst for unholy water
 5244 Target develops a terrific thirst for uniVersal solVent
-5245 Target develops adVanced arthritis; MOVement rate is halVed
+5245 Target develops adVanced arthritis; Movement rate is halVed
 5246 Target develops ambidexterity
 5247 Target develops an aVersion to clothing
 5248 Target develops an awful fear of speech
@@ -5360,7 +5360,7 @@
 5360 Target feels horrible embarrassment whenever he's hit by magic
 5361 Target feels intense ecstasy whenever he' s wounded
 5362 Target feels intensely guilty whenever he eats meat
-5363 Target feels intensely hung-OVer
+5363 Target feels intensely hung-over
 5364 Target feels like gravity has shifted by 45?
 5365 Target feels like he has been spinning in a circle for hours
 5366 Target feels like hejust bearhugged a cactus
@@ -5419,7 +5419,7 @@
 5419 Target gains proficiency in the use of the Mancatcher
 5420 Target gains quadrophonic hearing: +2 bonus on Surprise rolls
 5421 Target gains Red Dragon's breath weapon but takes same damage
-5422 Target gains the ability to burrow at % nomal MOVement Rate
+5422 Target gains the ability to burrow at % nomal Movement Rate
 5423 Target gains the ability to read any language
 5424 Target gains the ability to see at will into the Ethereal Plane
 5425 Target gains the ability to see through metals
@@ -5720,7 +5720,7 @@
 5720 Target is invisible to Vampires until he speaks or attacks
 5721 Target is invisible when naked and unencumbered
 5722 Target is invisible when no one is looking
-5723 Target is invisible wheneVer he shOVes his fist in his mouth
+5723 Target is invisible wheneVer he shoves his fist in his mouth
 5724 Target is invisible while he speaks
 5725 Target is invisible, intangible, and silenced for 10d6 rounds
 5726 Target is invulnerable to all harm for 1d6-1 rounds
@@ -5899,7 +5899,7 @@
 5899 Target leaves strange, disquieting odors in his wake
 5900 Target leaves wet footprints whereVer he goes
 5901 Target left a fire in his fireplace, house is now ablaze
-5902 Target levitates 1' abOVe ground, retains nomal MOVement Rate
+5902 Target levitates 1' above ground, retains nomal MOVement Rate
 5903 Target levitates slightly when he suffers damage
 5904 Target levitates slightly when he's hit by magic
 5905 Target looks and sounds different to each creature Viewing him
@@ -6205,7 +6205,7 @@
 6205 Target thinks everyone around him is dreaming
 6206 Target thinks everyone he meets looks Vaguely familiar
 6207 Target thinks everyone in the world knows his secrets
-6208 Target thinks everyone is trustworthy until prOVen otherwise
+6208 Target thinks everyone is trustworthy until proven otherwise
 6209 Target thinks everyone thinks he' s an impostor
 6210 Target thinks everyone who speaks Common is speaking gibberish
 6211 Target thinks everyone who speaks to him has his Voice
@@ -6554,7 +6554,7 @@
 6554 Target wakes each day in a tree
 6555 Target wakes each day in an unfamiliar location
 6556 Target wakes each day in an unfamiliar position
-6557 Target wakes each day levitating 10 feet abOVe the ground
+6557 Target wakes each day levitating 10 feet above the ground
 6558 Target wakes each day more tired than the night before
 6559 Target wakes each day naked, clothes hanging in a tall tree
 6560 Target wakes each day naked, clothes neatly folded nearby
@@ -7055,7 +7055,7 @@
 7055 Target's clothing turns to pitch
 7056 Target's clothing turns to skin
 7057 Target's clothing turns to snow
-7058 Target's clothing turns to SOVereign Glue
+7058 Target's clothing turns to Sovereign Glue
 7059 Target's clothing turns to steam
 7060 Target's clothing turns to steel wool
 7061 Target's clothing turns to stone
@@ -7231,10 +7231,10 @@
 7231 Target's feet become c1oven hooVes
 7232 Target's feet become hands
 7233 Target's feet become prehensile
-7234 Target' 5 feet covered in adhesive', MOVement Rate cut by 3/4
+7234 Target' 5 feet covered in adhesive', Movement Rate cut by 3/4
 7235 Target's feet covered in boils and loses 1 HP per round walking
 7236 Target's feet covered in ice; DEX check each round ofwalking
-7237 Target's feet enlarge to his full height; MOVement Rate is 1
+7237 Target's feet enlarge to his full height; Movement Rate is 1
 7238 Target's feet explode if he stands in water
 7239 Target's feet explode; all within 10' lose 2d10 hit points
 7240 Target's feet feel like they are being tickled
@@ -7244,11 +7244,11 @@
 7244 Target's feet rotate 90?
 7245 Target's feet shrink to 1/2 normal size, MR cut to 1/2 normal
 7246 Target's feet sprout wings, function like Boots of Flying
-7247 Target' 5 feet take root', MOVement Rate drops to zero
+7247 Target' 5 feet take root', Movement Rate drops to zero
 7248 Target's feet try to out--pace each other
 7249 Target's feet try to walk in opposite directions
 7250 Target's feet turn ethereal
-7251 Target's feet turn to lead, MOVement Rate drops to 1/2 nomal
+7251 Target's feet turn to lead, Movement Rate drops to 1/2 nomal
 7252 Target's fingernails become carpenter's nails
 7253 Target's fingers and toes switch places
 7254 Target's fingers turn 90?; somatic components impossible
@@ -7618,7 +7618,7 @@
 7618 Target's saliva turns to roast beef gravy
 7619 Target's saliva turns to salt
 7620 Target's saliva turns to sand
-7621 Target's saliva turns to SOVereign Glue
+7621 Target's saliva turns to Sovereign Glue
 7622 Target's saliva turns to UniVersal SolVent
 7623 Target's Saves "flip" relatiVe to 10', 11 becomes 9, etc.
 7624 Target's scent is soothing to hounds
@@ -7662,7 +7662,7 @@
 7662 Target's shadow rises and walks away
 7663 Target's shadow rises up and tries to strangle him
 7664 Target's shadow screams whenever the target is hit
-7665 Target's shadow weighs as much as the target; MOVe Rate halved
+7665 Target's shadow weighs as much as the target; Move Rate halved
 7666 Target's shield becomes enchanted with Continual Light
 7667 Target's shield turns to adamantite, gains +2
 7668 Target's shield turns to glass, receives -6 until broken
@@ -8206,7 +8206,7 @@
 8206 1d10 people teleport to Vicinity; Vanish after 1d8 rounds
 8207 1d10 Stirges appear in Vicinity
 8208 1d100 drops of distilled Universal SolVent rain from the sky
-8209 1d100 drops of SOVereign Glue rain from the sky
+8209 1d100 drops of Sovereign Glue rain from the sky
 8210 1d100 large, mysterious, granite heads rise from the ground
 8211 1d100 Skeletons appear and attack everyone in sight
 8212 1d100 skeletons appear in the area but don't do anything
@@ -8266,7 +8266,7 @@
 8266 yard radius is encircled by a tall barbed-wire fence
 8267 yard radius is encircled by a tall electric fence
 8268 yard radius is encircled by closely-spaced oak trees
-8269 yard radius is paved-OVer by asphalt
+8269 yard radius is paved-over by asphalt
 8270 yard radius is reduced in size to 50 yard radius
 8271 yard radius is ringed by monolithic Standing Stones
 8272 yard radius is seared clean ofplants, rocks, and wildlife
@@ -8646,7 +8646,7 @@
 8646 All males within 60 yards are covered in blood
 8647 All males within 60 yards are covered in green slime
 8648 All males within 60 yards are covered in ketchup
-8649 All males within 60 yards are covered in SOVereign glue
+8649 All males within 60 yards are covered in Sovereign glue
 8650 All males within 60 yards are Held for 1d4 rounds
 8651 All males within 60 yards are stricken bald
 8652 All males within 60 yards are stricken mute for 1d10 rounds
@@ -8764,7 +8764,7 @@
 8764 All nonmagical clothing within 60 yards shrinks by 80%
 8765 All nonmagical clothing within 60 yards turns to glass
 8766 All nonmagical fires within 1d10 miles are extinguished
-8767 All nonmagical weapons now sheathed can never be remOVed
+8767 All nonmagical weapons now sheathed can never be removed
 8768 All NPC's in the area lose Morale and wish to flee
 8769 All obj ects within 60 yards not carried or worn disintegrate
 8770 All oil and greek fire within 60 yards ignites
@@ -8811,7 +8811,7 @@
 8811 All potions within 60 yards turn to Potions of Healing
 8812 All potions within 60 yards turn to roast beef gravy
 8813 All potions within 60 yards turn to skunk musk
-8814 All potions within 60 yards turn to SOVereign Glue
+8814 All potions within 60 yards turn to Sovereign Glue
 8815 All potions within 60 yards turn to Sweetwater
 8816 All potions within 60 yards Vanish
 8817 All potions within 60 yards work but also induce invisibility
@@ -9965,7 +9965,7 @@
 9965 The sun appears to be a huge black hole until nightfall
 9966 The sun appears to be blood red until nightfall
 9967 The sun never sets in a 60 yard radius
-9968 The sun turns invisible but still prOVides light
+9968 The sun turns invisible but still provides light
 9969 The target point becomes a Gate into the nearest bonfire
 9970 The target point becomes a Gate into the nearest brothel
 9971 The tarrasque appears in the Vicinity
@@ -9997,4 +9997,4 @@
 9997 Wild Surge occurs whenever a spell is miscast in the area
 9998 Wild Surges are henceforth twice as likely to occur in the area
 9999 Winter starts now and lasts until it should naturally end
-0000 The nearest star explodes in a massive supemOVa
+0000 The nearest star explodes in a massive supernova
