@@ -36,10 +36,8 @@ function readFile (evt) {
 	reader.readAsText(file);
 }
 
-var rand = (Math.floor(Math.random()*effects.length));
 console.log("r0nk's wild & magical wild magic effect generator");
-document.getElementById("output").innerHTML = effects[rand];
-
+document.getElementById("output").innerHTML = effects[1];
 function new_effect()
 {
 	var rand = (Math.floor(Math.random()*effects.length)-1);
