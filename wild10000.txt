@@ -3646,7 +3646,7 @@
 3646 Next fire set by caster can be seen for 1 mile
 3647 Next fire set by caster cannot be extinguished nomally
 3648 Next fire set by caster causes a fountain to well up beneath it
-3649 Next fire set by caster c0Vers all who View it with black ash
+3649 Next fire set by caster covers all who View it with black ash
 3650 Next fire set by caster detonates as a 3 die Fireball
 3651 Next fire set by caster duplicates his personality
 3652 Next fire set by caster flies into the sky
@@ -3718,7 +3718,7 @@
 3718 Next meal prepared by caster groans like a banshee for 1 round
 3719 Next meal prepared by caster has no taste whatsoever
 3720 Next meal prepared by caster induces Vegetarianism
-3721 Next meal prepared by caster is c0Vered in sores and boils
+3721 Next meal prepared by caster is covered in sores and boils
 3722 Next meal prepared by caster is pristine and beautiful
 3723 Next meal prepared by caster is scabrous and infected
 3724 Next meal prepared by caster is toxic to anyone but him
@@ -3805,7 +3805,7 @@
 3805 Occupants of next mine caster enters think he's an Illithid
 3806 Occupants of next mine caster enters think he's made of gold
 3807 Occupants of next mine caster enters think he's the owner
-3808 Ominous thunder rumbles 0Verhead when caster says his name
+3808 Ominous thunder rumbles overhead when caster says his name
 3809 One half of caster's body turns invisible for d10 rounds
 3810 One of caster's ams turns to cheese
 3811 One of caster's eyes perceives things to be upside-down
@@ -3868,7 +3868,7 @@
 3868 Sounds of raging waterfalls are heard when caster casts a spell
 3869 Sounds of roaring flames are heard when caster casts a spell
 3870 Speaking the caster's name renders animals unconscious
-3871 Spectacular lightning flares 0Verhead when caster says his name
+3871 Spectacular lightning flares overhead when caster says his name
 3872 Spectacular lightning hamlessly grounds itself Via the caster
 3873 Spell cannot be recast by caster for 1d4 weeks
 3874 Spell consumes caster's body as its material component
@@ -3980,7 +3980,7 @@
 3980 When caster dies, the ambient temperature drops 30?
 3981 When caster dies, the moon appears blood-red for one month
 3982 When caster dies, the nearest royal bloodline dies out too
-3983 When caster dies, the sky appears 0Vercast for one week
+3983 When caster dies, the sky appears overcast for one week
 3984 When caster dies, the sun appears to weep tears of flame
 3985 When caster dies, Vicious rumors circulate about him
 3986 When caster dies, Vultures carry his corpse to his home
@@ -4000,7 +4000,7 @@
 4000 Wizard Mark reading "Kick me" foms on caster's back
 4001 12' iron statue oftarget sprouts from ground within 60' of him
 4002 daisy grows from target's head, may be pruned without harm
-4003 1d10 fingers fall from target's hands, regrow 0Ver d10 days
+4003 1d10 fingers fall from target's hands, regrow over d10 days
 4004 1d10 Hit Die Fireball centers on target
 4005 1d10 of target' 5 fingers turn to steel
 4006 1d10 sparrow eggs tumble from target's mouth
@@ -4026,7 +4026,7 @@
 4026 A large cheese sculpture of the target appears nearby
 4027 A large granite hand rises from the earth to grasp the target
 4028 A late-model Ford suddenly appears in target' 5 new driveway
-4029 A light bulb appears 0Ver target's head when he casts a spell
+4029 A light bulb appears over target's head when he casts a spell
 4030 A light rain falls on the target when he casts a spell
 4031 A light rain falls on the target when he's struck by a spell
 4032 A pit 1d100 feet deep opens beneath target; DEX check or fall
@@ -4035,7 +4035,7 @@
 4035 A red dragon believes it owes the target a faVor
 4036 A Red Dragon believes that target is pursuing her
 4037 A red dragon believes the target owes it a faVor
-4038 A red dragon c0Vets something the target now possesses
+4038 A red dragon covets something the target now possesses
 4039 A red light flashes atop target's head for one turn
 4040 A small elemental appears wherever the target spills blood
 4041 A small elemental appears wherever the target's blood is spilt
@@ -4335,7 +4335,7 @@
 4335 For d4 hours, target's touch turns all precious metal to lead
 4336 For d4 turns, target's touch turns all solid matter to gold
 4337 For d6 days, target can find secret doors 9 out of 10 times
-4338 For d6 hours, all within 10' oftarget c0Vet his spellbook
+4338 For d6 hours, all within 10' oftarget covet his spellbook
 4339 For d6 hours, target's touch turns all gems to colored ice
 4340 For d6 turns target's gains a bloodhound's olfactory acuity
 4341 For some reason, the target doesn't think steel can hurt him
@@ -4363,7 +4363,7 @@
 4363 If struck, target seems to shatter and reassemble quickly
 4364 If struck, target thumps like an empty barrel
 4365 If struck, target wobbles as though made of rubber
-4366 If struck, target yells "Timber" and falls 0Ver
+4366 If struck, target yells "Timber" and falls over
 4367 Iftarget finds a bag of holding, he climbs into it
 4368 Iftarget is slain, his killer adopts his alignment
 4369 Iftarget is slain, his killer ages one year each day
@@ -4496,7 +4496,7 @@
 4496 Next fire set by target can be seen for 1 mile
 4497 Next fire set by target cannot be extinguished nomally
 4498 Next fire set by target causes a fountain to well up beneath it
-4499 Next fire set by target c0Vers all who View it with black ash
+4499 Next fire set by target covers all who View it with black ash
 4500 Next fire set by target detonates as a 3 die Fireball
 4501 Next fire set by target duplicates his personality
 4502 Next fire set by target flies into the sky
@@ -4555,7 +4555,7 @@
 4555 Next meal prepared by target groans like a banshee for 1 round
 4556 Next meal prepared by target has no taste whatsoever
 4557 Next meal prepared by target induces Vegetarianism
-4558 Next meal prepared by target is c0Vered in sores and boils
+4558 Next meal prepared by target is covered in sores and boils
 4559 Next meal prepared by target is pristine and beautiful
 4560 Next meal prepared by target is scabrous and infected
 4561 Next meal prepared by target is toxic to anyone but him
@@ -4637,7 +4637,7 @@
 4637 Noodles tumble from target's nostrils
 4638 Nothing in target's home is familiar to him anymore
 4639 Oak tree sprouts beneath target; carries him 60' into the air
-4640 Ominous thunder rumbles 0Verhead when target says his name
+4640 Ominous thunder rumbles overhead when target says his name
 4641 One oftarget's ams turns to cheese
 4642 One of target's eyes perceives things to be upside-down
 4643 One oftarget's teeth doubles in size
@@ -4692,7 +4692,7 @@
 4692 Some nearby cult thinks it must sacrifice the target
 4693 Someonejust insulted the target but he's not sure who
 4694 Speaking the target's name renders animals unconscious
-4695 Spectacular lightning flares 0Verhead when target says his name
+4695 Spectacular lightning flares overhead when target says his name
 4696 Spell causes target to suffer amnesia as well as its nomal effect
 4697 Spell consumes target's body as its material component
 4698 Spell delayed until target speaks his name, then it strikes him
@@ -4740,7 +4740,7 @@
 4740 Target affected by Sleep, as spell, whenever he hears his name
 4741 Target ages 1 year every time he's hit by a spell-like effect
 4742 Target ages 1 year for each round spent in direct sunlight
-4743 Target ages 1000 years 0Ver the course of the next turn
+4743 Target ages 1000 years over the course of the next turn
 4744 Target ages at 10X normal rate while at full hit points
 4745 Target ages halfway to his maximum life expectancy
 4746 Target ages one year for every Hit Point he loses
@@ -5213,7 +5213,7 @@
 5213 Target desires to leap from the next bridge he crosses
 5214 Target desires to walk on his hands instead of feet
 5215 Target desperately hopes to avoid his current destination
-5216 Target develops a blind spot 0Ver d100% of his View
+5216 Target develops a blind spot over d100% of his View
 5217 Target develops a compulsion to be struck by lightning
 5218 Target develops a craVing for slugs, maggots, and leeches
 5219 Target develops a fear ofelementals
@@ -5258,8 +5258,8 @@
 5258 Target develops Thaumaphobia, an intense fear of magic
 5259 Target dies immediately ifhe is ever cut by his own dagger
 5260 Target dies nightly and is resurrected each following morning
-5261 Target disc0Vers a tombstone nearby inscribed with his name
-5262 Target disc0Vers the secret for manufacturing plastic
+5261 Target discovers a tombstone nearby inscribed with his name
+5262 Target discovers the secret for manufacturing plastic
 5263 Target disgorges 1d1000 bats
 5264 Target disgorges 1d1000 blasphemies
 5265 Target disgorges 1d1000 canaries
@@ -5332,7 +5332,7 @@
 5332 Target falls in love with someone entirely inappropriate
 5333 Target falls into a heap of unconnected cells
 5334 Target falls madly in love with his own reflection
-5335 Target falls 0Ver
+5335 Target falls over
 5336 Target fears clothing except when naked, when he fears nudity
 5337 Target fears communists are after his precious bodily fluids
 5338 Target fears he is a Vampire and will be inj ured by sunlight
@@ -5614,7 +5614,7 @@
 5614 Target is blasted to ashes
 5615 Target is blinded but gains clairvoyance ofthe area he is in
 5616 Target is bound head to toe in coaxial cable
-5617 Target is bulletproof, as he'll disc0Ver if he's ever shot
+5617 Target is bulletproof, as he'll discover if he's ever shot
 5618 Target is buried up to his waist in hot dogs
 5619 Target is burned by a large magical explosion, loses 16 HP
 5620 Target is burned by holy symbols
@@ -5634,17 +5634,17 @@
 5634 Target is convinced that 10 days haVejust passed
 5635 Target is convinced that he inVented magic
 5636 Target is convinced that someone's lurking right behind him
-5637 Target is c0Vered in a chocolate shell
-5638 Target is c0Vered in a sugary glaze like a doughnut
-5639 Target is c0Vered in fomic acid and ants
-5640 Target is c0Vered in ice cream and hot fudge
-5641 Target is c0Vered in ketchup, though he believes it's blood
-5642 Target is c0Vered in pollen and bees
-5643 Target is c0Vered in scars as if he were once badly burned
-5644 Target is c0Vered in wet spaghetti
-5645 Target is c0Vered with butter every time he's hit by magic
-5646 Target is c0Vered with painful-looking bruises
-5647 Target is c0Vered with scales which fall offin 1d4 days
+5637 Target is covered in a chocolate shell
+5638 Target is covered in a sugary glaze like a doughnut
+5639 Target is covered in fomic acid and ants
+5640 Target is covered in ice cream and hot fudge
+5641 Target is covered in ketchup, though he believes it's blood
+5642 Target is covered in pollen and bees
+5643 Target is covered in scars as if he were once badly burned
+5644 Target is covered in wet spaghetti
+5645 Target is covered with butter every time he's hit by magic
+5646 Target is covered with painful-looking bruises
+5647 Target is covered with scales which fall offin 1d4 days
 5648 Target is deafened but gains Clairaudience ofthe area he is in
 5649 Target is deeply embarrassed by the sound of his Voice
 5650 Target is despised by all the members ofa single species
@@ -5945,8 +5945,8 @@
 5945 Target may cast any spells currently memorized by caster
 5946 Target may Command one being; it must obey as far as it is able
 5947 Target may Teleport without Error twice
-5948 Target melts 0Ver next d6 rounds unless Remove Curse is cast
-5949 Target metamorphoses into a Bodak 0Ver next d6 months
+5948 Target melts over next d6 rounds unless Remove Curse is cast
+5949 Target metamorphoses into a Bodak over next d6 months
 5950 Target mimics the facial features of each person he touches
 5951 Target mistakenly Gated by a random Outer Plane being
 5952 Target mistakenly Gates a random Outer Planes being
@@ -6023,7 +6023,7 @@
 6023 Target realizes that the universe was hatched from a giant egg
 6024 Target receives Shocking Grasp from next creature he touches
 6025 Target recoils from holy symbols as if he were undead
-6026 Target rec0Vers an additional 2 hit points each day
+6026 Target recovers an additional 2 hit points each day
 6027 Target reeks of ammonia whenever he's hit by magic
 6028 Target refuses to accept that he's ever triggered a Wild Surge
 6029 Target refuses to admit that anything occurred before his birth
@@ -6110,7 +6110,7 @@
 6110 Target spends 1d10 rounds ridiculing his best friend
 6111 Target spends 24 hours in hell: gains a level when he returns
 6112 Target spins a cocoon & emerges fully healed after 1 week
-6113 Target spins like a top for d6 rounds; DEX check or fall 0Ver
+6113 Target spins like a top for d6 rounds; DEX check or fall over
 6114 Target spontaneously combusts, loses 1d4 HP/round until death
 6115 Target sprouts a new nose in the center of his forehead
 6116 Target sprouts a new nose right next to his original one
@@ -6138,7 +6138,7 @@
 6138 Target suddenly finds himself standing within an igloo
 6139 Target suddenly gains 50 pounds of baby fat
 6140 Target suffers Blindness
-6141 Target suffers financial ruin 0Ver the next few months
+6141 Target suffers financial ruin over the next few months
 6142 Target suffers full effect of the intended spell: no Save
 6143 Target suffers great embarrassment whenever he's hit by magic
 6144 Target suffers illusionary wounds identical to those he causes
@@ -6268,7 +6268,7 @@
 6268 Target thinks he is blessed with eternal youth
 6269 Target thinks he is bound by a demonic pact
 6270 Target thinks he is controlled by someone
-6271 Target thinks he is c0Vered with ants
+6271 Target thinks he is covered with ants
 6272 Target thinks he is currently living in a past life
 6273 Target thinks he is deeply in love with one of his allies
 6274 Target thinks he is destined to be king
@@ -6538,15 +6538,15 @@
 6538 Target wakes each day at the bottom of a small crater
 6539 Target wakes each day blood-soaked as from a Vicious battle
 6540 Target wakes each day clutching a small stuffed bear
-6541 Target wakes each day c0Vered by honey and ants
-6542 Target wakes each day c0Vered by peas and carrots
-6543 Target wakes each day c0Vered by severed human ears
-6544 Target wakes each day c0Vered by small lizards
-6545 Target wakes each day c0Vered by soft; newly-grown moss
-6546 Target wakes each day c0Vered with cobwebs
-6547 Target wakes each day c0Vered with snow
-6548 Target wakes each day c0Vered with spiders
-6549 Target wakes each day entangled by 0Vergrown grass
+6541 Target wakes each day covered by honey and ants
+6542 Target wakes each day covered by peas and carrots
+6543 Target wakes each day covered by severed human ears
+6544 Target wakes each day covered by small lizards
+6545 Target wakes each day covered by soft; newly-grown moss
+6546 Target wakes each day covered with cobwebs
+6547 Target wakes each day covered with snow
+6548 Target wakes each day covered with spiders
+6549 Target wakes each day entangled by overgrown grass
 6550 Target wakes each day ethereal; takes 1d4-1/2 hours to reform
 6551 Target wakes each day facing north
 6552 Target wakes each day half--sunken into the ground
@@ -6587,7 +6587,7 @@
 6587 Target would tell his deity a thing or two, given the chance
 6588 Target: flesh to stone/rock to mud/water to dust/gust ofwind
 6589 Target's age is halved, but he looks twice as old
-6590 Target's anger manifests as a little raincloud 0Ver his head
+6590 Target's anger manifests as a little raincloud over his head
 6591 Target's arm is bent 90? halfway between his wrist and elbow
 6592 Target's arms and legs Vanish for 1d10 rounds
 6593 Target's arms are stricken totally numb for 2d10 turns
@@ -6599,7 +6599,7 @@
 6599 Target's blood reeks of sulfur when it is spilt
 6600 Target's blood traces out arcane signs where it spills
 6601 Target's blood turns to chocolate on contact with air
-6602 Target's body is c0Vered with octopus sucker-marks
+6602 Target's body is covered with octopus sucker-marks
 6603 Target's body no longer produces saliva
 6604 Target's body rotates 360?, though his head remains still
 6605 Target's bones are brittle when he's in direct moonlight
@@ -6693,7 +6693,7 @@
 6693 Target's head appears to be a few feet away while he sleeps
 6694 Target's head appears to have been cut off and reattached
 6695 Target's head flashes like a disco ball for 1d4 turns
-6696 Target's head is a featureless 0Void while he sleeps
+6696 Target's head is a featureless ovoid while he sleeps
 6697 Target's head rings like a church bell 1d12 times
 6698 Target's head shrinks to half its width
 6699 Target's head turns into a cylinder
@@ -6763,7 +6763,7 @@
 6763 Target's nose triples its size
 6764 Target's organs can be seen faintly through his skin
 6765 Target's palms and fingers can't be cut by metal
-6766 Target's palms are c0Vered with painful sores and blisters
+6766 Target's palms are covered with painful sores and blisters
 6767 Target's pelvis crumbles to dust
 6768 Target's pocket fill with popcorn, which starts popping
 6769 Target's pockets fill with chicken giblets
@@ -6949,7 +6949,7 @@
 6949 Target's boots appear to be made of leathered human skin
 6950 Target's boots are affected as by the spell Frisky Chest
 6951 Target's boots are affected as by the spell Grease
-6952 Target's boots are c0Veted by invertebrates
+6952 Target's boots are coveted by invertebrates
 6953 Target's boots are restored to better-than-new condition
 6954 Target's boots become sentient
 6955 Target' 5 boots blare like trumpets as they are removed
@@ -6974,7 +6974,7 @@
 6974 Target' 5 boots mutter obscenities with every step
 6975 Target' 5 boots protect the wearer from fear
 6976 Target' 5 boots race off toward their place of manufacture
-6977 Target's boots resent being walked all 0Ver
+6977 Target's boots resent being walked all over
 6978 Target's boots ring like church bells when he's hit by magic
 6979 Target's boots seem red-hot to anyone else touching them
 6980 Target's boots shine like beacons after twilight
@@ -7063,9 +7063,9 @@
 7063 Target's clothing turns to tight--fit'ting chain mail
 7064 Target's clothing turns to water
 7065 Target's clothig turns to wood
-7066 Target's clothing turns to w0Ven grass
-7067 Target's clothing turns to w0Ven human hair
-7068 Target's clothing turns to w0Ven magnesium filaments
+7066 Target's clothing turns to woven grass
+7067 Target's clothing turns to woven human hair
+7068 Target's clothing turns to woven magnesium filaments
 7069 Target's clothing turns upside--down
 7070 Target's clothing twists and constricts his movement
 7071 Target's coinage assembles into an intricate 3-D collage
@@ -7088,15 +7088,15 @@
 7088 Target's dominant hand becomes a foot
 7089 Target's dominant hand becomes a wolf's paw under the full moon
 7090 Target's dominant hand becomes an exact copy ofhis other hand
-7091 Target's dominant hand becomes c0Vered in cellophane
-7092 Target's dominant hand becomes c0Vered in reptilian scales
+7091 Target's dominant hand becomes covered in cellophane
+7092 Target's dominant hand becomes covered in reptilian scales
 7093 Target's dominant hand becomes Ethereal
 7094 Target's dominant hand becomes gnarled like an ancient oak
 7095 Target's dominant hand becomes immune to normal acid
 7096 Target's dominant hand becomes immune to normal cold
 7097 Target's dominant hand becomes immune to normal fire
 7098 Target's dominant hand becomes magnetized
-7099 Target's dominant hand becomes 0Verly sensitive to heat
+7099 Target's dominant hand becomes overly sensitive to heat
 7100 Target's dominant hand becomes paralyzed under the full moon
 7101 Target's dominant hand becomes webbed
 7102 Target's dominant hand bleeds from beneath its fingernails
@@ -7131,7 +7131,7 @@
 7131 Target's dominant hand is affected by Spider Climb
 7132 Target's dominant hand is as durable as a steel gauntlet
 7133 Target's dominant hand is burned with an imprint ofan amulet
-7134 Target's dominant hand is c0Vered in suggestive tattoos
+7134 Target's dominant hand is covered in suggestive tattoos
 7135 Target's dominant hand is detachable
 7136 Target's dominant hand is impervious to small missile weapons
 7137 Target's dominant hand is insulated against electricity
@@ -7228,12 +7228,12 @@
 7228 Target's familiar is turned to immobile gold statuette
 7229 Target's familiar is turned to mobile gold statuet'te (alive)
 7230 Target's familiar turns invisible
-7231 Target's feet become c10Ven hooVes
+7231 Target's feet become c1oven hooVes
 7232 Target's feet become hands
 7233 Target's feet become prehensile
-7234 Target' 5 feet c0Vered in adhesive', MOVement Rate cut by 3/4
-7235 Target's feet c0Vered in boils and loses 1 HP per round walking
-7236 Target's feet c0Vered in ice; DEX check each round ofwalking
+7234 Target' 5 feet covered in adhesive', MOVement Rate cut by 3/4
+7235 Target's feet covered in boils and loses 1 HP per round walking
+7236 Target's feet covered in ice; DEX check each round ofwalking
 7237 Target's feet enlarge to his full height; MOVement Rate is 1
 7238 Target's feet explode if he stands in water
 7239 Target's feet explode; all within 10' lose 2d10 hit points
@@ -7291,7 +7291,7 @@
 7291 Target's gioVes turn to boots
 7292 Target's gioVes turn to cast iron
 7293 Target's gioVes turn to mittens
-7294 Target's gioVes turn to Reglar's G10Ves of Freedom
+7294 Target's gioVes turn to Reglar's G1oves of Freedom
 7295 Target's gold is transmuted to an equal Volume of flesh
 7296 Target's hair and clothes are blown by wind only he can feel
 7297 Target's hair and skin exchange color
@@ -7695,7 +7695,7 @@
 7695 Target's skin feels like scales but looks normal
 7696 Target's skin feels like warm wax
 7697 Target's skin forms an insect--like exoskeleton (-2d6 to CHA)
-7698 Target's skin grows to c0Ver any rings he's wearing
+7698 Target's skin grows to cover any rings he's wearing
 7699 Target's skin has a number of suctiomup welts on it
 7700 Target's skin has an odd tint to it
 7701 Target's skin is blasted from his body, though he is unhamed
@@ -7979,7 +7979,7 @@
 7979 When target dies, the ambient temperature drops 30?
 7980 When target dies, the moon appears blood-red for one month
 7981 When target dies, the nearest royal bloodline dies out, too
-7982 When target dies, the sky appears 0Vercast for one week
+7982 When target dies, the sky appears overcast for one week
 7983 When target dies, the sun appears to weep tears of flame
 7984 When target dies, Vicious rumors circulate about him
 7985 When target dies, Vultures carry his corpse to his home
@@ -8062,10 +8062,10 @@
 8062 1 random female nearby is coated in disgusting, Viscous slime
 8063 1 random female nearby is consumed from within by maggots
 8064 1 random female nearby is convinced she doesn't exist
-8065 1 random female nearby is c0Vered in cuts and scrapes
-8066 1 random female nearby is c0Vered in lamp oil
-8067 1 random female nearby is c0Vered in paper mache
-8068 1 random female nearby is c0Vered in Volcanic ash
+8065 1 random female nearby is covered in cuts and scrapes
+8066 1 random female nearby is covered in lamp oil
+8067 1 random female nearby is covered in paper mache
+8068 1 random female nearby is covered in Volcanic ash
 8069 1 random female nearby is cured ofall diseases
 8070 1 random female nearby is Enfeebled
 8071 1 random female nearby is fabulously rich but doesn't know it
@@ -8148,7 +8148,7 @@
 8148 1 random male nearby howls at the full moon like a coyote
 8149 1 random male nearby is affected by Fool's Speech
 8150 1 random male nearby is compelled to tithe 90% of his income
-8151 1 random male nearby is c0Vered in densely-packed leaves
+8151 1 random male nearby is covered in densely-packed leaves
 8152 1 random male nearby is enraged at the sight of blood
 8153 1 random male nearby is mesmerized by spellcasting
 8154 1 random male nearby is orbited by inert ioun stones
@@ -8250,18 +8250,18 @@
 8250 yard radius is always 10 degrees colder its surroundings
 8251 yard radius is circled by a river of magma
 8252 yard radius is circled by a wall ofiron
-8253 yard radius is c0Vered by 1 foot ofvolcanic ash
-8254 yard radius is c0Vered by 2 feet of sand
-8255 yard radius is c0Vered by 3 feet of water
-8256 yard radius is c0Vered by 4 feet of snow
-8257 yard radius is c0Vered by a 3 inch thick sheet ofice
-8258 yard radius is c0Vered by astroturf
-8259 yard radius is c0Vered by dead crickets
-8260 yard radius is c0Vered by live crickets
-8261 yard radius is c0Vered by paint
-8262 yard radius is c0Vered by roast beef gravy
-8263 yard radius is c0Vered by worms, which die after 1 turn
-8264 yard radius is c0Vered in plush carpet
+8253 yard radius is covered by 1 foot ofvolcanic ash
+8254 yard radius is covered by 2 feet of sand
+8255 yard radius is covered by 3 feet of water
+8256 yard radius is covered by 4 feet of snow
+8257 yard radius is covered by a 3 inch thick sheet ofice
+8258 yard radius is covered by astroturf
+8259 yard radius is covered by dead crickets
+8260 yard radius is covered by live crickets
+8261 yard radius is covered by paint
+8262 yard radius is covered by roast beef gravy
+8263 yard radius is covered by worms, which die after 1 turn
+8264 yard radius is covered in plush carpet
 8265 yard radius is encircled by a ring of melting snowmen
 8266 yard radius is encircled by a tall barbed-wire fence
 8267 yard radius is encircled by a tall electric fence
@@ -8349,7 +8349,7 @@
 8349 All air within 60 yards of the target point is evacuated
 8350 All air within 60 yards of the target point turns to sand
 8351 All ants in the nearest colony fom a collective intelligence
-8352 All ants within 1 mile are c0Vered with chocolate
+8352 All ants within 1 mile are covered with chocolate
 8353 All ants within 1 mile become gi-ant for 1d100 rounds
 8354 All amor within 60 yards becomes porous like a sponge
 8355 All arrows within 60 yards bend into circles
@@ -8427,7 +8427,7 @@
 8427 All chocolate within 1 mile fills with ants
 8428 All cloth within 1d10 miles turns invisible for 1d100 rounds
 8429 All clothing within 60 yards turns invisible
-8430 All clouds 0Ver 1 mile radius turn to spider web
+8430 All clouds over 1 mile radius turn to spider web
 8431 All clouds within 10 miles turn to cotton candy
 8432 All controlled undead within 1 mile are controlled no longer
 8433 All controlled undead within 1 mile collapse, inert
@@ -8455,7 +8455,7 @@
 8455 All dead within 60 yards become hostile earth elementals
 8456 All dead within 60 yards begin chanting
 8457 All demihumans within 1 mile are tattooed with a cryptic rune
-8458 All dogs within 1 mile are c0Vered with bark
+8458 All dogs within 1 mile are covered with bark
 8459 All dogs within 1 mile change into cats under the full moon
 8460 All dogs within 1 mile change into humans under the full moon
 8461 All dwarves within 1 mile grow 6 inches for 1 week
@@ -8473,7 +8473,7 @@
 8473 All enchantments within 60 yards become inert for 1d10 turns
 8474 All females within 60 yards appear to bleed from the eyes
 8475 All females within 60 yards are cannot speak until touched
-8476 All females within 60 yards are c0Vered in mustard
+8476 All females within 60 yards are covered in mustard
 8477 All females within 60 yards are deaf for 1d10 rounds
 8478 All females within 60 yards are Hasted
 8479 All females within 60 yards are now wearing baseball caps
@@ -8513,8 +8513,8 @@
 8513 All females within 60 yards think they have the same name
 8514 All females within 60 yards think they're 20 years older
 8515 All females within 60 yards think they're cats until sunset
-8516 All females within 60 yards think they're c0Vered in blood
-8517 All females within 60 yards think they're c0Vered in bugs
+8516 All females within 60 yards think they're covered in blood
+8517 All females within 60 yards think they're covered in bugs
 8518 All females within 60 yards think they're drowning
 8519 All females within 60 yards think they're invisible
 8520 All females within 60 yards think they're naked
@@ -8550,7 +8550,7 @@
 8550 All foliage within 60 yards becomes phosphorescent
 8551 All foliage within 60 yards bleeds when cut
 8552 All foliage within 60 yards combusts
-8553 All foliage within 60 yards is c0Vered by cryptic scrawls
+8553 All foliage within 60 yards is covered by cryptic scrawls
 8554 All foliage within 60 yards radiates intense evil
 8555 All foliage within 60 yards screams when cut
 8556 All foliage within 60 yards turns dingy gray
@@ -8569,7 +8569,7 @@
 8569 All free-standing water within 1 mile freezes solid
 8570 All free-willed undead within 1 mile become mindless for 1 day
 8571 All free-willed undead within 1 mile return to life
-8572 All geese within 1 mile c0Vered in Grease, as spell
+8572 All geese within 1 mile covered in Grease, as spell
 8573 All geese within 1 mile fall under a Geas, as spell
 8574 All geese within 1 mile turn to gas and dissipate
 8575 All geese within 1 mile turn to ghosts and haunt their lake
@@ -8643,10 +8643,10 @@
 8643 All males within 60 yards are affected by Cure Light Wounds
 8644 All males within 60 yards are affected by Fools' Speech
 8645 All males within 60 yards are affected by Slow
-8646 All males within 60 yards are c0Vered in blood
-8647 All males within 60 yards are c0Vered in green slime
-8648 All males within 60 yards are c0Vered in ketchup
-8649 All males within 60 yards are c0Vered in SOVereign glue
+8646 All males within 60 yards are covered in blood
+8647 All males within 60 yards are covered in green slime
+8648 All males within 60 yards are covered in ketchup
+8649 All males within 60 yards are covered in SOVereign glue
 8650 All males within 60 yards are Held for 1d4 rounds
 8651 All males within 60 yards are stricken bald
 8652 All males within 60 yards are stricken mute for 1d10 rounds
@@ -8838,7 +8838,7 @@
 8838 All residents ofthe nearest Village choose live in the woods
 8839 All residents ofthe nearest Village turn to friendly kobolds
 8840 All residents of the nearest Village Vanish without a trace
-8841 All rocks within 60 yards are c0Vered with bark
+8841 All rocks within 60 yards are covered with bark
 8842 All rocks within 60 yards roll toward the area ofeffect
 8843 All rodents within 1 mile appear in the area
 8844 All rodents within 1 mile double in size
@@ -8873,7 +8873,7 @@
 8873 All statues within 1 mile animate
 8874 All statues within 1 mile animate and depart
 8875 All statues within 1 mile appear in the area
-8876 All statues within 1 mile appear to be grossly 0Verweight
+8876 All statues within 1 mile appear to be grossly overweight
 8877 All statues within 1 mile appear to be of opposite gender
 8878 All statues within 1 mile appear to be terror-stricken
 8879 All statues within 1 mile appear to have been carved naked
@@ -8916,8 +8916,8 @@
 8916 All trees within 60 yards appear two-dimensional
 8917 All trees within 60 yards are believed to be sentient
 8918 All trees within 60 yards are Cloned
-8919 All trees within 60 yards are c0Vered in oozing pustules
-8920 All trees within 60 yards are c0Vered in thorns and barbs
+8919 All trees within 60 yards are covered in oozing pustules
+8920 All trees within 60 yards are covered in thorns and barbs
 8921 All trees within 60 yards are engraved with risque images
 8922 All trees within 60 yards are fireproof
 8923 All trees within 60 yards are invisible from twilight to dawn
@@ -8948,7 +8948,7 @@
 8948 All trees within 60 yards giggle when no 1 is looking
 8949 All trees within 60 yards grow face-shaped protrusions
 8950 All trees within 60 yards have nooses hanging in their limbs
-8951 All trees within 60 yards look to be c0Vered in snow all year
+8951 All trees within 60 yards look to be covered in snow all year
 8952 All trees within 60 yards make angry faces at people
 8953 All trees within 60 yards march in a circle before taking root
 8954 All trees within 60 yards point mysteriously in 1 direction
@@ -9019,7 +9019,7 @@
 9019 All within 60 yards are affected by massmorph for 18 hours
 9020 All within 60 yards are beset with seizures
 9021 All within 60 yards are carrying 10 pounds of mashed potatoes
-9022 All within 60 yards are c0Vered in tomato paste
+9022 All within 60 yards are covered in tomato paste
 9023 All within 60 yards are drenched
 9024 All within 60 yards are Feebleminded
 9025 All within 60 yards are Healed, as by the spell
@@ -9178,7 +9178,7 @@
 9178 Anyone in amor within 60 yards gains 1d6 hit points
 9179 Anyone in amor within 60 yards hears terrifying music
 9180 Anyone in amor within 60 yards is affected by Friends
-9181 Anyone in amor within 60 yards is c0Vered in cobwebs
+9181 Anyone in amor within 60 yards is covered in cobwebs
 9182 Anyone in amor within 60 yards is Enfeebled
 9183 Anyone in amor within 60 yards is Held
 9184 Anyone in amor within 60 yards is immune to cantrips
@@ -9273,7 +9273,7 @@
 9273 Heavy flooding occurs throughout a ten mile radius
 9274 Heavy rain falls for 1d10 rounds; all -2 ToHit; no missile fire
 9275 Illusions cast in the area are free-willed for their duration
-9276 In the next 2 turns, 3d10 feet of snow c0Ver a 60 yard radius
+9276 In the next 2 turns, 3d10 feet of snow cover a 60 yard radius
 9277 Internal dimensions of nearest dwelling are doubled
 9278 Internal gravity of nearest dwelling increases 1d4X
 9279 Internal gravity of nearest dwelling is flipped 90?
@@ -9608,7 +9608,7 @@
 9608 Nearest pond acts as a Mirror of Scrying
 9609 Nearest pond acts as a Mirror of Simple Order
 9610 Nearest pond acts as a random potion to those drinking it
-9611 Nearest pond becomes a Gate to a cloud high 0Verhead
+9611 Nearest pond becomes a Gate to a cloud high overhead
 9612 Nearest pond becomes a Gate to a nearby bonfire
 9613 Nearest pond becomes a Gate to a pond of similar size
 9614 Nearest pond becomes a water elemental, attacks all near
@@ -9680,7 +9680,7 @@
 9680 Nearest river heats by 80?, killing any aquatic life within it
 9681 Nearest river hurls all fish within it onto its banks
 9682 Nearest river ignites
-9683 Nearest river is c0Vered by a layer of stone
+9683 Nearest river is covered by a layer of stone
 9684 Nearest river is cut off from its tributaries
 9685 Nearest river leVitates ten feet
 9686 Nearest river parts mysteriously at some significant location
@@ -9727,7 +9727,7 @@
 9727 Nearest tree begins strangling the person nearest to it
 9728 Nearest tree turns into a Vast beach umbrella
 9729 Nearest troll loses its regeneration ability for 1d10 days
-9730 Nearest Valley fills with a glacier 0Ver the next 1d12 months
+9730 Nearest Valley fills with a glacier over the next 1d12 months
 9731 Nearest Valley rises into a mountain; flora and fauna unhamed
 9732 Nearest Vampire develops an intense craVing for garlic
 9733 Nearest Vampire gains an immunity to direct sunlight
@@ -9876,7 +9876,7 @@
 9876 Someone nearby thinks someone else nearby wants to kill him
 9877 Someone within 60 yards gains knowledge of advanced physics
 9878 Sounds made within 60 yards can't be heard beyond that area
-9879 Sounds of machine--gun fire echo from 0Ver the nearest hill
+9879 Sounds of machine--gun fire echo from over the nearest hill
 9880 Spell affects 50 yard radius except its intended area of effect
 9881 Spell affects everyone within 60 yards of target except target
 9882 Spell appears to fail but functions as another spell of equal level
@@ -9909,7 +9909,7 @@
 9909 Spell functions but smells like sulfur
 9910 Spell hits a random target once for each creature within 50'
 9911 Spell occurs at this time every day for the next year
-9912 Spell 0Vershoots, hits creature behind intended target
+9912 Spell overshoots, hits creature behind intended target
 9913 Spell recurs each of next 1d4 rounds, hitting random targets
 9914 Spell rips a hole in space, fomnng a Gate to the Astral Plane
 9915 Spell strikes 1d6 creatures in area for equal effect; no saves
@@ -9918,14 +9918,14 @@
 9918 Spell's area increases to 1 mile, but damage is halved
 9919 Spell's area of effect is increased by 1000X
 9920 Spell's damage increases by 1000X within the area of effect
-9921 Spiderwebs c0Ver all within a 60 yard radius
+9921 Spiderwebs cover all within a 60 yard radius
 9922 Stars are Visible in the daytime sky for the next 1d12 days
 9923 Sunlight appears red within a 60 yard radius
 9924 Sunlight seems twice as bright within 60 yard radius
 9925 Surface ofthe nearest pond becomes as hard as iron
 9926 Target point of the spell shines with bright, natural sunlight
-9927 Tattooed map ofchoice cuts c0Vers all livestock within 1 mile
-9928 Tattooed map ofchoice cuts c0Vers any demihumans within 1 mile
+9927 Tattooed map ofchoice cuts covers all livestock within 1 mile
+9928 Tattooed map ofchoice cuts covers any demihumans within 1 mile
 9929 Temperature drops 1d100 degrees within 60 yard radius
 9930 Temperature in 60 yard radius permanently raised by 20?
 9931 Temperature in 60 yard radius permanently reduced by 20?
@@ -9954,9 +9954,9 @@
 9954 The ink in all books within 60 yards can only be seen at night
 9955 The moon appears to be a huge eye until the next new moon
 9956 The mouth of the nearest well becomes a portable hole
-9957 The sky 0Ver a 1 mile radius is forever bright and sunny
-9958 The sky 0Ver a 1 mile radius is forever cloudy and 0Vercast
-9959 The sky 0Ver a 1 mile radius shows both sun & stars in daytime
+9957 The sky over a 1 mile radius is forever bright and sunny
+9958 The sky over a 1 mile radius is forever cloudy and 0Vercast
+9959 The sky over a 1 mile radius shows both sun & stars in daytime
 9960 The spellcaster nearest the target area drops 1 casting level
 9961 The spellcaster nearest the target area fires all his spells
 9962 The spellcaster nearest the target area rises 1 casting level
